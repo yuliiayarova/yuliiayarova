@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d1%8e%d0%bb%d1%96%d1%8f-%d1%8f%d1%80%d0%be%d0%b2%d0%b0-a2481a395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d1%8e%d0%bb%d1%96%d1%8f-%d1%8f%d1%80%d0%be%d0%b2%d0%b0-a2481a395/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ulia.arovaa.504537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ulia.arovaa.504537" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yarova_yuliia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yarova_yuliia/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/юлія-ярова-a2481a395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="юлія-ярова-a2481a395" height="30" width="40" /></a>
+<a href="https://fb.com/ulia.arovaa.504537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ulia.arovaa.504537" height="30" width="40" /></a>
+<a href="https://instagram.com/yarova_yuliia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yarova_yuliia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
