@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript on Fullstack Bootcamp course on GoIT 🤓</p>
+<p align="left">
+📚 I’m currently studying JavaScript in a Fullstack Bootcamp at GoIT</p>
 
 ###
 
