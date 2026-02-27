@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yuliia and I'm a passionate frontend developer from Ukraine 🇺🇦</p>
+<p align="left">My name is Yuliia and I'm a frontend developer from Ukraine 🇺🇦</p>
 
 ###
 
