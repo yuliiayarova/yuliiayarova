@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-📚 I’m currently studying JavaScript in a Fullstack Bootcamp at GoIT</p>
+📚 I’m currently studying React in a Fullstack Bootcamp at GoIT</p>
 
 ###
 
