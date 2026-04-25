@@ -11,12 +11,12 @@
 ###
 
 <p align="left">
-📚 I’m currently studying React in a Fullstack Bootcamp at GoIT</p>
+📚 I’m currently studying Node.js in a Fullstack Bootcamp at GoIT</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,figma,nodejs" />
 </p>
 
 ###
