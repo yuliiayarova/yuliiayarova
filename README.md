@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-📚 I’m currently studying Node.js in a Fullstack Bootcamp at GoIT</p>
+🥷🏼 I’m a Front-End Software Engineer at SoftServe</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
